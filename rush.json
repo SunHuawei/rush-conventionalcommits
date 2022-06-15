@@ -5,6 +5,7 @@
   "pnpmOptions": {
     "useWorkspaces": true
   },
+  "projectFolderMinDepth": 4,
   "nodeSupportedVersionRange": ">=14.15.0 <15.0.0",
   "gitPolicy": {
     "versionBumpCommitMessage": "chore: Bump versions [skip ci]",
