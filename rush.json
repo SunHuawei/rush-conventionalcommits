@@ -18,12 +18,12 @@
   "projects": [
     {
       "packageName": "spfx-utils",
-      "projectFolder": "spfx-libraries/spfx-utils",
+      "projectFolder": "spfx-libraries/spfx-utils/",
       "versionPolicyName": "sPFx"
     },
     {
       "packageName": "org-app",
-      "projectFolder": "spfx-apps/org-app",
+      "projectFolder": "spfx-apps/org-app/",
       "versionPolicyName": "sPFx"
     }
   ]
