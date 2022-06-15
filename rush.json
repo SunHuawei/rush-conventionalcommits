@@ -8,11 +8,7 @@
   "nodeSupportedVersionRange": ">=14.15.0 <15.0.0",
   "gitPolicy": {
     "versionBumpCommitMessage": "chore: Bump versions [skip ci]",
-    "changeLogUpdateCommitMessage": "chore: Update changelogs [skip ci]",
-    "allowedEmailRegExps": [
-      "[^@]+@users\\.noreply\\.github\\.com"
-    ],
-    "sampleEmail": "mrexample@users.noreply.github.com"
+    "changeLogUpdateCommitMessage": "chore: Update changelogs [skip ci]"
   },
   "repository": {
     "url": "https://github.com/SunHuawei/rush-conventionalcommits.git",
