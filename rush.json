@@ -15,7 +15,7 @@
     "sampleEmail": "mrexample@users.noreply.github.com"
   },
   "repository": {
-    "url": "https://github.com/kkazala/rush-conventionalcommits.git",
+    "url": "https://github.com/SunHuawei/rush-conventionalcommits.git",
     "defaultBranch": "master",
     "defaultRemote": "origin"
   },
